@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/aaa14f4c8fdc4aaa8ce174377c79f155/artifacts
+end_time: 1762537275111
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: aaa14f4c8fdc4aaa8ce174377c79f155
+run_name: rebellious-snake-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762537271885
+status: 3
+tags: []
+user_id: sureshkumar

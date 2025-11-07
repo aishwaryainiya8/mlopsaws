@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/a7add7add79048c28a8014c5c4b2789f/artifacts
+end_time: 1762461619880
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: a7add7add79048c28a8014c5c4b2789f
+run_name: unique-fox-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762461616725
+status: 3
+tags: []
+user_id: sureshkumar
