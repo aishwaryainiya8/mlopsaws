@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/models/m-8b3a9b4f875e437b863fdbcee02ee8c9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-8b3a9b4f875e437b863fdbcee02ee8c9
+model_size_bytes: 177393
+model_uuid: m-8b3a9b4f875e437b863fdbcee02ee8c9
+prompts: null
+run_id: 8f5597d79f514cb490d6bed46252b6a9
+utc_time_created: '2025-11-07 06:37:13.265310'

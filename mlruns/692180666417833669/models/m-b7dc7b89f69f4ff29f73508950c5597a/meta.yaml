@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/models/m-b7dc7b89f69f4ff29f73508950c5597a/artifacts
+creation_timestamp: 1762523448679
+experiment_id: '692180666417833669'
+last_updated_timestamp: 1762523451771
+model_id: m-b7dc7b89f69f4ff29f73508950c5597a
+model_type: null
+name: model
+source_run_id: 81d9f6fe23534587bb4c6b4ac21b60c3
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/81d9f6fe23534587bb4c6b4ac21b60c3/artifacts
+end_time: 1762523451774
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: 81d9f6fe23534587bb4c6b4ac21b60c3
+run_name: smiling-crane-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762523448566
+status: 3
+tags: []
+user_id: sureshkumar

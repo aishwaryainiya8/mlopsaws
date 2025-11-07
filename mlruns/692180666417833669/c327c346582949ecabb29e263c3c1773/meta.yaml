@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/c327c346582949ecabb29e263c3c1773/artifacts
+end_time: 1762462244444
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: c327c346582949ecabb29e263c3c1773
+run_name: brawny-lynx-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762462241331
+status: 3
+tags: []
+user_id: sureshkumar

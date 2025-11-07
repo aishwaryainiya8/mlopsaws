@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/7538850a725c4f7e9513005c93b4834b/artifacts
+end_time: 1762462677387
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: 7538850a725c4f7e9513005c93b4834b
+run_name: bemused-stork-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762462674283
+status: 3
+tags: []
+user_id: sureshkumar

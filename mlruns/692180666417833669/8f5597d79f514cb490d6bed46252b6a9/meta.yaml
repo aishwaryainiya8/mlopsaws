@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sureshkumar/Mlops/fully_automated_Mlops_project/mlops-fasttrack/mlruns/692180666417833669/8f5597d79f514cb490d6bed46252b6a9/artifacts
+end_time: 1762497436443
+entry_point_name: ''
+experiment_id: '692180666417833669'
+lifecycle_stage: active
+run_id: 8f5597d79f514cb490d6bed46252b6a9
+run_name: nosy-whale-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762497433142
+status: 3
+tags: []
+user_id: sureshkumar
